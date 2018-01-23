@@ -1,6 +1,6 @@
-Given a binary tree, return the preorder traversal of its nodes' values.
+//Given a binary tree, return the preorder traversal of its nodes' values.
 
-For example:
+/*For example:
 Given binary tree [1,null,2,3],
    1
     \
@@ -8,7 +8,7 @@ Given binary tree [1,null,2,3],
     /
    3
 return [1,2,3].
-/**
+
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
